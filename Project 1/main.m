@@ -1,4 +1,4 @@
-%% Project 1 - Rory Bird
+%% Project 1
 
 %% Q.1
 % Establish coefficient matrix A and find the x vector
